@@ -5,7 +5,7 @@ public class ValidateCreditCard
 {
     public static void Main(string[] args)
     {
-        // Example usage for Visa
+        // Example usage for Visa 
         string visaCardNumber = "4111111111111111";
         var visaResult = ValidateCreditCardNumber(visaCardNumber);
         Console.WriteLine($"Card Number: {visaCardNumber}, Valid: {visaResult.Valid}, Bandeira: {visaResult.Bandeira}");

@@ -3,11 +3,10 @@
 This project provides a utility to validate credit card numbers and determine the card issuer (bandeira) using various programming languages including JavaScript, Python, Java, and C#.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="./assets/t0.png" alt="t0" style="width: 30%;">
-  <img src="./assets/t1.png" alt="t1" style="width: 30%;">
-  <img src="./assets/t2.png" alt="t2" style="width: 30%;">
+  <img src="./assets/t0.png" alt="t0" style="width: 30%; height: 200px;">
+  <img src="./assets/t1.png" alt="t1" style="width: 30%; height: 200px;">
+  <img src="./assets/t2.png" alt="t2" style="width: 30%; height: 200px;">
 </div>
-
 ## Table of Contents
 
 - [Credit Card Validator](#credit-card-validator)
